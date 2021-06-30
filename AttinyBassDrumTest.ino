@@ -1,3 +1,4 @@
+// https://www.alexallmont.com/avr-cheap-bass-drum-synthesis/
 // Attiny25/45/85, no device to test
 // fuse L = 0xE2, H = 0xDF, E = 0xFF 
 
