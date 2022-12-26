@@ -1,4 +1,4 @@
-# Tiny13-Drum-Test
+# AVR_Tiny13-Drum-Test
 original author (alexallmount) has recovered the code and open source again. my little work to make it works on atTiny13
 
 
